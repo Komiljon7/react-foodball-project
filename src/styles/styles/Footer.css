@@ -1,0 +1,23 @@
+.footer {
+    background: linear-gradient(to right, #141e30, #243b55);
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+    color: #ffffff;
+    font-size: 14px;
+  }
+  
+  .footer a {
+    margin: 0 10px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  
+  .footer a:hover {
+    color: #50b3a2;
+  }
+  

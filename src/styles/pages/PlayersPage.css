@@ -1,0 +1,26 @@
+ul {
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 5px 0;
+    color: #333;
+  }
+  
+  strong {
+    color: #555;
+  }
+  
